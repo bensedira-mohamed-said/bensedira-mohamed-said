@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Bensedira Mohamed Said 👋
 
-<!--
-**bensedira-mohamed-said/bensedira-mohamed-said** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate  
+📍 Algeria  
+💻 Interested in AI, Mobile Development, and Distributed Systems  
 
-Here are some ideas to get you started:
+## Skills
+- Programming: Java, Python  
+- Mobile: Android, Flutter  
+- Databases: SQLite, Firebase  
+- Research: Image Steganography, Signal Processing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 📱 Android Notes App (SQLite) – CRUD, ListView, Custom Adapter  
+- 🤖 JADE Distributed Agents – Multi-agent simulation  
+- 🔐 Image Steganography Attack Project – Contrast adjustment evaluation  
+
+## Contact
+- Email: 
